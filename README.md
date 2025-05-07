@@ -42,20 +42,6 @@ This project is a data-driven analysis of the COVID-19 pandemic using the [Our W
 
 ---
 
-## 📈 Visual Insights
-
-### Death Rate Trends Across Countries
-
-![Death Rate Chart](death_rate_chart_1.png)
-
-### Comparative Case Numbers Over Time
-
-![Cases Comparison](death_rate_chart_4.png)
-
-*More visualizations are available in the notebook.*
-
----
-
 ## 🧠 Insights and Reflections
 
 - Death rates varied significantly across countries and over time.
@@ -71,8 +57,6 @@ This project is a data-driven analysis of the COVID-19 pandemic using the [Our W
 📦 Python-Covid-19-Final-Project
 ┣ 📜 FinalProject Week8.ipynb
 ┣ 📜 README.md
-┣ 🖼️ death_rate_chart_1.png
-┣ 🖼️ death_rate_chart_2.png
 ...
 ```
 
